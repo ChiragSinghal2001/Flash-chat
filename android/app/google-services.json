@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176877124758",
+    "project_id": "flash-chat-ba8b3",
+    "storage_bucket": "flash-chat-ba8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176877124758:android:5dd72f53d316277eeb16b7",
+        "android_client_info": {
+          "package_name": "com.chirag.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176877124758-n5km8ohal3thpnmuu1dhnml1hislmqaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd4I3B2YpNmu1SQsnHiR8wpstykyxWRAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176877124758-n5km8ohal3thpnmuu1dhnml1hislmqaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
