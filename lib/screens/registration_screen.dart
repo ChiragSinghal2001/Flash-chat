@@ -40,8 +40,10 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
             TextField(
               keyboardType: TextInputType.emailAddress,
               textAlign: TextAlign.center,
+              //button to input the value
               onChanged: (value) {
                 email = value;
+                print(email);
               },
               style: const TextStyle(color: Colors.black),
               decoration: kTextFieldDecoration,
